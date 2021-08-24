@@ -1,2 +1,2 @@
 #!/bin/bash
-sum=$((128 + export TRUEKNOWLEDGE)) 
+expr 128 + TRUEKNOWLEDGE
