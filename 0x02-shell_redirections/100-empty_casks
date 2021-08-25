@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -1a'\n'
+ find . -type d -type f -name ".*" -empty '\n'
