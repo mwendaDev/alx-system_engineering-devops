@@ -1,2 +1,2 @@
 #!/bin/bash
-Cut -c1 | paste -s | try -d "[:blank:]" '\n'
+cut -c1 | paste -s | try -d "[:blank:]"
