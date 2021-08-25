@@ -1,0 +1,2 @@
+#!/bin/bash
+Cut -c1 | paste -s | try -d "[:blank:]"
